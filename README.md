@@ -7,6 +7,6 @@
 </h4>
 
 <p align="center" dir="auto">
-  <img href ="https://bugsarefeatures.github.io/InteractiveSummative/" src="/GitHub/website-live.svg" alt="Website"> <img src="/GitHub/curretntly-wip.svg" alt="Work In Progress"> <img src="/GitHub/made-with-unity.svg" alt="Made with Unity">
+  <img href ="https://bugsarefeatures.github.io/InteractiveSummative/" src="/Github/website-live.svg" alt="Website"> <img src="/Github/curretntly-wip.svg" alt="Work In Progress"> <img src="/Github/made-with-unity.svg" alt="Made with Unity">
 </p>
  
